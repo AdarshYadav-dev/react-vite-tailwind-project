@@ -1,21 +1,21 @@
-# React Vite Tailwind Project 🚀
+# React Vite Tailwind Project
 
 A **React** application built with **Vite** and styled using **Tailwind CSS**.  
 This project demonstrates a responsive layout featuring reusable components and clean, modern design principles.
 
 ---
 
-## 🧩 Features
+##  Features
 
-- ⚡ **Vite** for blazing-fast development and build speed  
-- 🎨 **Tailwind CSS** for modern, utility-first styling  
-- 🧱 **Reusable React Components** for cleaner structure  
-- 📱 **Fully Responsive** across all devices  
-- 🧭 **Modular Folder Structure** for easy scalability  
+-  **React with** for blazing-fast development and build speed  
+-  **Tailwind CSS** for modern, utility-first styling  
+-  **Reusable React Components** for cleaner structure  
+-  **Fully Responsive** across all devices  
+-  **Modular Folder Structure** for easy scalability  
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
@@ -25,9 +25,8 @@ This project demonstrates a responsive layout featuring reusable components and 
 ---
 
 
----
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to set up the project locally.
 
